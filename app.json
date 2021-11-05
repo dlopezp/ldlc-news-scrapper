@@ -1,0 +1,7 @@
+{
+  "name": "LDLC news scrapper",
+  "description": "Notify news on ldlc.com on Discord",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "keywords": ["node", "heroku"],
+  "image": "heroku/nodejs"
+}
